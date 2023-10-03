@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<img  width="90%" height="90%" scr="https://br.pinterest.com/pin/587086501451386271/">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Bruno;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
