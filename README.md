@@ -1,5 +1,5 @@
 
-<img width="100%" scr="https://i.pinimg.com/564x/28/98/54/289854dae67ede707890974d5b209100.jpg">
+<img width="100%" scr="C:\Users\bruno\Pictures\289854dae67ede707890974d5b209100">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Bruno;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
