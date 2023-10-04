@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" color="red" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" color=red src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Bruno;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
