@@ -1,5 +1,5 @@
 
-<img scr="https://i.pinimg.com/564x/28/98/54/289854dae67ede707890974d5b209100?color=FF6400&height=150&section=header"/>
+<img src="https://i.pinimg.com/564x/28/98/54/289854dae67ede707890974d5b209100.jpg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Bruno;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
