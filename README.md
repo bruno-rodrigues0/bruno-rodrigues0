@@ -1,5 +1,5 @@
 <div display="flex" align="center">
-<img width=500px src="https://pm1.aminoapps.com/7072/e9692b66cb7d0be072a0911eda2623e2135c6289r1-512-512v2_uhq.jpg"/>
+<img width=850px height=120px src="https://pm1.aminoapps.com/7072/e9692b66cb7d0be072a0911eda2623e2135c6289r1-512-512v2_uhq.jpg"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Bruno;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
