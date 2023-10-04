@@ -1,5 +1,5 @@
 
-<img width=98vh src="https://static.vecteezy.com/ti/vetor-gratis/p1/9877724-pixel-art-paisagem-floresta-em-montanhas-ao-por-do-sol-fundo-minimalista-8-bits-vetor.jpg"/>
+<img width=98vh src="https://pm1.aminoapps.com/7072/e9692b66cb7d0be072a0911eda2623e2135c6289r1-512-512v2_uhq.jpg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Bruno;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
