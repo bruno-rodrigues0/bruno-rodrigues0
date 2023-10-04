@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BA1818&height=300&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BA1818&height=300&descAlignY=51&descAlign=70)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Bruno;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
