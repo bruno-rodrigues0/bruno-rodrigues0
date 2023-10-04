@@ -1,5 +1,5 @@
 <div display="flex" align="center">
-<img width=850px src="https://e1.pxfuel.com/desktop-wallpaper/625/44/desktop-wallpaper-pixel-sunset.jpg"/>
+<img src="https://e1.pxfuel.com/desktop-wallpaper/625/44/desktop-wallpaper-pixel-sunset.jpg"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Bruno;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
