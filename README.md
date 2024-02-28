@@ -1,3 +1,5 @@
+
+
 <div id="top"></div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
@@ -27,9 +29,20 @@
 		return GuanambiBrasil()
 	
 	def Ambitions():
-		LearnJapanese()
-    BeApprovedAtUSP()	
+	  	LearnJapanese()
+     BeApprovedAtUSP()	
+
  ```
+
+ ## Programming Languages 
+            
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+                            
+          
+
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
