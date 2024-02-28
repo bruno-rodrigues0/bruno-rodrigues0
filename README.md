@@ -1,6 +1,4 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
@@ -30,10 +28,7 @@
 	
 	def Ambitions():
 		LearnJapanese()
-    BeApprovedInUSP()
-
-
-	
+    BeApprovedAtUSP()	
  ```
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
