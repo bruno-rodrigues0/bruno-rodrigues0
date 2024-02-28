@@ -35,10 +35,10 @@
  ## ⚡Programming Languages 
 
  <div display="inline-block">    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="30px" margin="0px 15px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px" margin="0px 15px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px" margin="0px 15px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px" margin="0px 15px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="30px" margin-right="15px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px" margin-right="15px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px" margin-right="15px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px" margin-right="15px"/>
  </div>                           
           
 
