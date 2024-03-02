@@ -30,10 +30,8 @@
 
 <div display="inline-block">
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=805DD7&hide_border=true&bg_color=0000&text_color=805DD7&card_width=200)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues0&theme=radical%title_color=805DD7&hide_border=true&bg_color=0000&text_color=805DD7&layout=compact&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=805DD7&hide_border=true&bg_color=0000&text_color=805DD7&card_width=400&ring_color=ffd700)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=805DD7&hide_border=true&bg_color=0000&text_color=805DD7&card_width=400&layout=compact)
 
 
 </div>
