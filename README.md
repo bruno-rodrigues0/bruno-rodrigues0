@@ -1,19 +1,9 @@
-<div id="top"></div>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruno-rodrigues0&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=c9d1d9&bg_color=0d1117" alt="Bruno (Fzn) GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues0&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117" />
-</div>
+ ## 🤔 Who am I?
 
-
-<div align="center"> 
-<a href="https://www.instagram.com/bruno.fzn_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:brunorodriguesmtv0@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
- ## 🤔Who am I?
  ```python
  class WhoAmI:
  	user = 'Bruno Rodrigues'
@@ -25,29 +15,54 @@
 			]
 	
 	def getCity():
-		return GuanambiBrasil()
+		return Guanambi_Bahia()
 	
 	def Ambitions():
 	  	LearnJapanese()
-     BeApprovedAtUSP()	
+         BeApprovedAtUSP()	
 
  ```
+<br>
 
- ## ⚡Programming Languages 
+## 💀 My stats...
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=github-dark&title_color=805DD7&line=805DD7&point=fff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div display="inline-block">
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=805DD7&hide_border=true&bg_color=0000&text_color=805DD7&card_width=200)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues0&theme=radical%title_color=805DD7&hide_border=true&bg_color=0000&text_color=805DD7&layout=compact&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+</div>
+
+<br>
+
+ ## 🧠 Programming Languagens and Tools 
 
  <div display="inline-block">    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="30px" margin-right="15px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px" margin-right="15px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px" margin-right="15px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px" margin-right="15px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="30px""/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px""/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px""/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width= "30px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30px"/>
+          
+          
+          
  </div>  
 
  ---
 
-## Learning
+## ✨ Learning
 
  <div display="inline-block">    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="30px" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px""/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"/>
+          
  </div>  
           
 
