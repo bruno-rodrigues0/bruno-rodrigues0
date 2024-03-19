@@ -26,12 +26,12 @@
 
 ## 💀 My stats...
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=github-dark&title_color=805DD7&line=805DD7&point=85a&hide_border=true&bg_color=0000&color=805DD7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div display="inline-block">
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=805DD7&hide_border=true&bg_color=0000&text_color=805DD7&card_width=400&ring_color=8f77ff)
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=805DD7&hide_border=true&bg_color=0000&text_color=805DD7&card_width=400&layout=compact)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&ring_color=6394ff)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&layout=compact)
 
 
 </div>
