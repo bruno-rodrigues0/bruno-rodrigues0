@@ -76,6 +76,8 @@ style="fill:#FFFFFF;">
           
  </div>  
 
+---
+
 <br>
  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=5ff&fontAlignY=73&reversal=true&section=footer" >
           
