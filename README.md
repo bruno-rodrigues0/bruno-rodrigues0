@@ -4,22 +4,29 @@
 
  ## 🤔 Who am I?
 
- ```python
- class WhoAmI:
- 	user = 'Bruno Rodrigues'
-		current_work = 'Studying'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Listen Music'
-			]
-	
-	def getCity():
+ ```javascript
+class WhoAmI{
+	constructor(){
+		this.user = 'Bruno Rodrigues'
+		this.current_work = 'Studying'
+		this.hobies = [
+			'Drawing',
+			'Watching animes'
+			'Listen music'
+		]
+	}
+
+	getCity(){
 		return Guanambi_Bahia()
-	
-	def Ambitions():
-	  	LearnJapanese()
-         BeApprovedAtUSP()	
+	}
+
+	getAmbitions(){
+		return ambitions = [
+			'Learn japanese'
+			'Be approved at USP'
+		]
+	}
+}
 
  ```
 <br>
