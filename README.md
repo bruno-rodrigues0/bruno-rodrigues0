@@ -21,7 +21,7 @@ class WhoAmI{
 	}
 
 	getAmbitions(){
-		return ambitions = [
+		return this.ambitions = [
 			'Learn japanese'
 			'Be approved at USP'
 		]
