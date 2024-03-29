@@ -75,6 +75,9 @@ style="fill:#FFFFFF;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="45px"/>
           
  </div>  
+
+<br>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=5ff&fontAlignY=73&reversal=true&section=footer" >
           
 
 <!--
