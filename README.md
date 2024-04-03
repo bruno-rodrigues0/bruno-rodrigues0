@@ -11,7 +11,7 @@ class WhoAmI{
 		this.current_work = 'Studying'
 		this.hobies = [
 			'Drawing',
-			'Watching animes'
+			'Watching animes',
 			'Listen music'
 		]
 	}
@@ -22,7 +22,7 @@ class WhoAmI{
 
 	getAmbitions(){
 		return this.ambitions = [
-			'Learn japanese'
+			'Learn japanese',
 			'Be approved at USP'
 		]
 	}
