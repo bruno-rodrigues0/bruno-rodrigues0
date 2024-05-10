@@ -12,7 +12,7 @@ class WhoAmI{
 		this.hobies = [
 			'Drawing',
 			'Watching animes',
-			'Listen music'
+			'Listen to music'
 		]
 	}
 
