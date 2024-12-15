@@ -4,29 +4,25 @@
 
  ## 🤔 Who am I?
 
- ```javascript
-class WhoAmI{
-	constructor(){
-		this.user = 'Bruno Rodrigues'
-		this.current_work = 'Studying'
-		this.hobies = [
-			'Drawing',
-			'Watching animes',
+ ```python
+class WhoAmI:
+	def __init__ (self):
+		self.user = 'Bruno Rodrigues'
+		self.current_work = 'Studying'
+		self.hobies = [
+			'Programming',
+			'Read',
 			'Listen to music'
 		]
-	}
 
-	getCity(){
+	def getCity(self):
 		return Guanambi_Bahia()
-	}
 
-	getAmbitions(){
+	def getAmbitions(self):
 		return this.ambitions = [
-			'Learn japanese',
-			'Be approved at USP'
+			'Merry my girlfriend',
+			'Be the TOP 1 PROGRAMMER of world'
 		]
-	}
-}
 
  ```
 <br>
@@ -62,6 +58,7 @@ class WhoAmI{
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
 </div>  
 
  ---
@@ -70,6 +67,7 @@ class WhoAmI{
 
 <div display="inline-block">    
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 
                    
 </div>  
