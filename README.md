@@ -20,7 +20,7 @@ class WhoAmI:
 
 	def getAmbitions(self):
 		return this.ambitions = [
-			'Merry my girlfriend',
+			'Marry my girlfriend',
 			'Be the TOP 1 PROGRAMMER of world'
 		]
 
