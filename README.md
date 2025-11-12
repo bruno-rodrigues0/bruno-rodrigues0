@@ -72,11 +72,10 @@ class WhoAmI():
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-brightgreen?style=for-the-badge&logo=nginx&logoColor=white">
 
-
                    
 </div>  
-
----
-
-<br>
- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=5ff&fontAlignY=73&reversal=true&section=footer" >
+<!---->
+<!-- --- -->
+<!---->
+<!-- <br> -->
+<!--  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=5ff&fontAlignY=73&reversal=true&section=footer" > -->
