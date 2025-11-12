@@ -16,7 +16,7 @@ class WhoAmI():
 			'Listen to music'
 		]
 
-    def greetings_info(self):
+    def presentation_info(self):
         return {
             'name': self.user,
             'role': self.role,
