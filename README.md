@@ -5,24 +5,31 @@
  ## 🤔 Who am I?
 
  ```python
-class WhoAmI:
-	def __init__ (self):
-		self.user = 'Bruno Rodrigues'
-		self.current_work = 'Studying'
-		self.hobies = [
-			'Programming',
-			'Read',
+class WhoAmI():
+    def __init__ (self) -> None:
+        self.user: str = 'Bruno Rodrigues'
+        self.role: str = 'Full-Stack Developer'
+        self.location: str = 'Guanambi/BA'
+        self.hobies: list[str] = [
+            'Programming',
+            'Read',
 			'Listen to music'
 		]
 
-	def getCity(self):
-		return Guanambi_Bahia()
+    def greetings_info(self):
+        return {
+            'name': self.user,
+            'role': self.role,
+            'location': self.location,
+            'hobies': self.hobies
+        }
+
  ```
 <br>
 
 ## 💀 My stats...
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div display="inline-block">
 
@@ -41,8 +48,8 @@ class WhoAmI:
  <div display="inline-block" align="">    
 <!-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
