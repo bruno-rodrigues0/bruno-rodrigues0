@@ -1,6 +1,6 @@
 <br>      
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+mundo!;Me+chamo+Bruno!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!)](https://git.io/typing-svg)
 
  ## 🤔 Who am I?
 
@@ -52,6 +52,7 @@ class WhoAmI():
   <img src="https://img.shields.io/badge/Node.js-303930?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind-232323?style=for-the-badge&logo=tailwindcss">
   <img src="https://img.shields.io/badge/shadcn-232323?style=for-the-badge&logo=shadcnui">
    <img src="https://img.shields.io/badge/gsap-151519?style=for-the-badge&logo=gsap">
    <img src="https://img.shields.io/badge/lucide-151519?style=for-the-badge&logo=lucide">
@@ -103,8 +104,8 @@ class WhoAmI():
   <img src="https://img.shields.io/badge/nginx-brightgreen?style=for-the-badge&logo=nginx">
   <img src="https://img.shields.io/badge/docker compose-1090DF?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/PosgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
-
-                   
+  <img src="https://img.shields.io/badge/prisma-000C24?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/express-030304?style=for-the-badge&logo=express&logoColor=white">  
 </div>  
 <!---->
 <!-- --- -->
