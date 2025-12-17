@@ -50,7 +50,7 @@ class WhoAmI():
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/nextjs-050505.svg?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-303930?style=for-the-badge&logo=node.js">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PosgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind-232323?style=for-the-badge&logo=tailwindcss">
   <img src="https://img.shields.io/badge/shadcn-232323?style=for-the-badge&logo=shadcnui">
@@ -103,7 +103,7 @@ class WhoAmI():
 <!-- <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">-->
   <img src="https://img.shields.io/badge/nginx-brightgreen?style=for-the-badge&logo=nginx">
   <img src="https://img.shields.io/badge/docker compose-1090DF?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/PosgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> -->
   <img src="https://img.shields.io/badge/prisma-000C24?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/express-030304?style=for-the-badge&logo=express&logoColor=white">  
 </div>  
