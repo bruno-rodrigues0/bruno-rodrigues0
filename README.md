@@ -1,4 +1,4 @@
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!)](https://git.io/typing-svg)
 
@@ -26,97 +26,61 @@ class WhoAmI():
 
 ```
 
-<br>
-
 ## 💀 My stats...
+  [![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div display="inline-block">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://readme-stats-pjye.vercel.app/api?username=bruno-rodrigues0&bg_color=0000&hide_border=true&text_color=4f76d6" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://readme-stats-pjye.vercel.app/api/top-langs?username=bruno-rodrigues0&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=4f76d6" />
-</a>
-
-</div>
-
-<br>
+  [![stats](https://readme-stats-pjye.vercel.app/api?username=bruno-rodrigues0&bg_color=0000&hide_border=true&text_color=4f76d6)](https://github.com/anuraghazra/github-readme-stats)
+  [![most used languages](https://readme-stats-pjye.vercel.app/api/top-langs?username=bruno-rodrigues0&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=4f76d6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧠 Main Stack
+  
+  ### ⚙ Languages
+  ![typescript](https://img.shields.io/badge/typescript-0F0F0F?style=for-the-badge&logo=typescript)
+  ![javascript](https://img.shields.io/badge/javascript-0F0F0F?style=for-the-badge&logo=javascript)
+ 
+  ### ⚙ Backend
+  ![bun](https://img.shields.io/badge/bun-0F0F0F?style=for-the-badge&logo=bun)
+  ![node.js](https://img.shields.io/badge/node.js-0F0F0F?style=for-the-badge&logo=node.js)
+  ![postgresql](https://img.shields.io/badge/postgresql-0F0F0F?style=for-the-badge&logo=postgresql)
+  ![prisma](https://img.shields.io/badge/prisma-0F0F0F?style=for-the-badge&logo=prisma)
+  ![fastify](https://img.shields.io/badge/fastify-0F0F0F?style=for-the-badge&logo=fastify)
+  ![swagger](https://img.shields.io/badge/swagger-0F0F0F?style=for-the-badge&logo=swagger)
+  ![express](https://img.shields.io/badge/express-0F0F0F?style=for-the-badge&logo=express)
 
- <div display="inline-block" align="">    
-  <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-303930?style=for-the-badge&logo=node.js">
-  <img src="https://img.shields.io/badge/Bun-101920?style=for-the-badge&logo=bun">
-  <img src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/prisma-000C24?style=for-the-badge&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/fastify-7F7F8F?style=for-the-badge&logo=fastify&logoColor=black">  
-  <img src="https://img.shields.io/badge/express-030304?style=for-the-badge&logo=express&logoColor=white">  
-  <img src="https://img.shields.io/badge/swagger-333334?style=for-the-badge&logo=swagger&logoColor=lime">  
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwind-232323?style=for-the-badge&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/shadcn-232323?style=for-the-badge&logo=shadcnui">
-   <img src="https://img.shields.io/badge/gsap-151519?style=for-the-badge&logo=gsap">
-   <img src="https://img.shields.io/badge/lucide-151519?style=for-the-badge&logo=lucide">
+  ### ⚙ Frontend
+  ![react](https://img.shields.io/badge/react-0F0F0F?style=for-the-badge&logo=react)
+  ![tailwindcss](https://img.shields.io/badge/tailwindcss-0F0F0F?style=for-the-badge&logo=tailwindcss)
+  ![shadcnui](https://img.shields.io/badge/shadcnui-0F0F0F?style=for-the-badge&logo=shadcnui)
+  ![gsap](https://img.shields.io/badge/gsap-0F0F0F?style=for-the-badge&logo=gsap)
+  ![lucide](https://img.shields.io/badge/lucide-0F0F0F?style=for-the-badge&logo=lucide)
 
-  <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> -->
-  <!-- <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"> -->
-
-</div>
-
-<br>
+---
 
 ## ⚙️ DevOps
-
-<div display="inline-block" align="">    
-   <img src="https://img.shields.io/badge/docker-1090DF?style=for-the-badge&logo=docker&logoColor=white">
-   <img src="https://img.shields.io/badge/CI/CD-10102F?style=for-the-badge&logo=github&logoColor=white">
-
-</div>
-
-<br>
+  ![docker](https://img.shields.io/badge/docker-0F0F0F?style=for-the-badge&logo=docker)
+  ![ci/cd](https://img.shields.io/badge/ci/cd-0F0F0F?style=for-the-badge&logo=github)
+  
+---
 
 ## ☁️ Cloud
+  ![vercel](https://img.shields.io/badge/vercel-0F0F0F?style=for-the-badge&logo=vercel)
+  ![aws](https://img.shields.io/badge/aws-E44C30?style=for-the-badge&logo=aws)
 
-<div display="inline-block" align="">    
-   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-E44C30?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-
-<br>
+---
 
 ## 🧰 Others
-
-<div display="inline-block" align="">    
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/opengl-%23white.svg?style=for-the-badge&logo=opengl&logoColor=white">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
-  <img src="https://img.shields.io/badge/NeoVim-303030.svg?&style=for-the-badge&logo=neovim">
-</div>
-
-<br>
+  ![git](https://img.shields.io/badge/git-0F0F0F?style=for-the-badge&logo=git)
+  ![python](https://img.shields.io/badge/python-0F0F0F?style=for-the-badge&logo=python)
+  ![opencv](https://img.shields.io/badge/opencv-0F0F0F?style=for-the-badge&logo=opencv)
+  ![c++](https://img.shields.io/badge/c++-0F0F0F?style=for-the-badge&logo=c%2B%2B)
+  ![opengl](https://img.shields.io/badge/opengl-0F0F0F?style=for-the-badge&logo=opengl)
+  ![archlinux](https://img.shields.io/badge/arch%20linux-0F0F0F?style=for-the-badge&logo=archlinux)
+  ![neovim](https://img.shields.io/badge/neovim-0F0F0F?style=for-the-badge&logo=neovim)
+ 
+---
 
 ## ✨ Learning
-
-<div display="inline-block">    
-<!-- <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">-->
-  <img src="https://img.shields.io/badge/nginx-brightgreen?style=for-the-badge&logo=nginx">
-  <img src="https://img.shields.io/badge/docker compose-1090DF?style=for-the-badge&logo=docker&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/nextjs-050505.svg?style=for-the-badge&logo=next.js&logoColor=white">
-</div>  
-<!---->
-<!-- --- -->
-<!---->
-<!-- <br> -->
-<!--  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=5ff&fontAlignY=73&reversal=true&section=footer" > -->
+  ![nginx](https://img.shields.io/badge/nginx-0F0F0F?style=for-the-badge&logo=nginx)
+  ![dockercompose](https://img.shields.io/badge/docker%20compose-0F0F0F?style=for-the-badge&logo=docker)
+  ![next.js](https://img.shields.io/badge/next.js-0F0F0F?style=for-the-badge&logo=next.js)
