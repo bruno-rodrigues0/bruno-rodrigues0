@@ -29,9 +29,7 @@ class WhoAmI():
 ## 💀 My stats...
   [![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-  [![stats](https://readme-stats-pjye.vercel.app/api?username=bruno-rodrigues0&bg_color=0000&hide_border=true&text_color=4f76d6)](https://github.com/anuraghazra/github-readme-stats)
-  [![most used languages](https://readme-stats-pjye.vercel.app/api/top-langs?username=bruno-rodrigues0&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=4f76d6)](https://github.com/anuraghazra/github-readme-stats)
+  [![stats](https://readme-stats-pjye.vercel.app/api?username=bruno-rodrigues0&bg_color=0000&hide_border=true&text_color=4f76d6)](https://github.com/anuraghazra/github-readme-stats) [![most used languages](https://readme-stats-pjye.vercel.app/api/top-langs?username=bruno-rodrigues0&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=4f76d6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧠 Main Stack
   
