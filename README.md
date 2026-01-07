@@ -32,7 +32,6 @@ class WhoAmI():
   <div display="inline-block">
 
   [![stats](https://readme-stats-pjye.vercel.app/api?username=bruno-rodrigues0&bg_color=0000&hide_border=true&text_color=4f76d6)](https://github.com/anuraghazra/github-readme-stats) 
-
   [![most used languages](https://readme-stats-pjye.vercel.app/api/top-langs?username=bruno-rodrigues0&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=4f76d6)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
