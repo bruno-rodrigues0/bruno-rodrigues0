@@ -1,30 +1,31 @@
-<br>      
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!)](https://git.io/typing-svg)
 
- ## 🤔 Who am I?
+## 🤔 Who am I?
 
- ```python
+```python
 class WhoAmI():
-    def __init__ (self) -> None:
-        self.user: str = 'Bruno Rodrigues'
-        self.role: str = 'Full-Stack Developer'
-        self.location: str = 'Guanambi/BA'
-        self.hobies: list[str] = [
-            'Programming',
-            'Read',
-            'Listen to music'
-        ]
+   def __init__ (self) -> None:
+       self.user: str = 'Bruno Rodrigues'
+       self.role: str = 'Full-Stack Developer'
+       self.location: str = 'Guanambi/BA'
+       self.hobies: list[str] = [
+           'Programming',
+           'Read',
+           'Listen to music'
+       ]
 
-    def presentation_info(self):
-        return {
-            'name': self.user,
-            'role': self.role,
-            'location': self.location,
-            'hobies': self.hobies
-        }
+   def presentation_info(self):
+       return {
+           'name': self.user,
+           'role': self.role,
+           'location': self.location,
+           'hobies': self.hobies
+       }
 
- ```
+```
+
 <br>
 
 ## 💀 My stats...
@@ -44,14 +45,18 @@ class WhoAmI():
 
 <br>
 
- ## 🧠 Main Stack
+## 🧠 Main Stack
+
  <div display="inline-block" align="">    
   <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-303930?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/Bun-101920?style=for-the-badge&logo=bun">
   <img src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/prisma-000C24?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/fastify-7F7F8F?style=for-the-badge&logo=fastify&logoColor=black">  
   <img src="https://img.shields.io/badge/express-030304?style=for-the-badge&logo=express&logoColor=white">  
+  <img src="https://img.shields.io/badge/swagger-333334?style=for-the-badge&logo=swagger&logoColor=lime">  
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind-232323?style=for-the-badge&logo=tailwindcss">
   <img src="https://img.shields.io/badge/shadcn-232323?style=for-the-badge&logo=shadcnui">
@@ -66,11 +71,12 @@ class WhoAmI():
 <!-- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"> -->
 
-</div>  
+</div>
 
 <br>
 
 ## ⚙️ DevOps
+
 <div display="inline-block" align="">    
    <img src="https://img.shields.io/badge/docker-1090DF?style=for-the-badge&logo=docker&logoColor=white">
    <img src="https://img.shields.io/badge/CI/CD-10102F?style=for-the-badge&logo=github&logoColor=white">
@@ -80,6 +86,7 @@ class WhoAmI():
 <br>
 
 ## ☁️ Cloud
+
 <div display="inline-block" align="">    
    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/aws-E44C30?style=for-the-badge&logo=amazonwebservices&logoColor=white">
@@ -87,6 +94,7 @@ class WhoAmI():
 <br>
 
 ## 🧰 Others
+
 <div display="inline-block" align="">    
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv">
