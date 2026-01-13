@@ -54,7 +54,7 @@ class WhoAmI():
 ![prisma](https://img.shields.io/badge/prisma-0F0F0F?style=for-the-badge&logo=prisma)
 ![fastify](https://img.shields.io/badge/fastify-0F0F0F?style=for-the-badge&logo=fastify)
 ![swagger](https://img.shields.io/badge/swagger-0F0F0F?style=for-the-badge&logo=swagger)
-d![zod](https://img.shields.io/badge/zod-0F0F0F?style=for-the-badge&logo=zod)
+![zod](https://img.shields.io/badge/zod-0F0F0F?style=for-the-badge&logo=zod)
 ![better-auth](https://img.shields.io/badge/better%20auth-0F0F0F?style=for-the-badge&logo=betterauth)
 ![express](https://img.shields.io/badge/express-0F0F0F?style=for-the-badge&logo=express)
 
