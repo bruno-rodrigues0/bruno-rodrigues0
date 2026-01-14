@@ -78,7 +78,7 @@ class WhoAmI():
 ## ☁️ Cloud
 
 ![vercel](https://img.shields.io/badge/vercel-0F0F0F?style=for-the-badge&logo=vercel)
-![aws](https://img.shields.io/badge/aws-E44C30?style=for-the-badge&logo=aws)
+![aws](http://18.229.143.246:4545/badge/aws-0F0F0F?style=for-the-badge&logo=amazonwebservices)
 
 ---
 
