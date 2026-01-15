@@ -93,7 +93,7 @@ Comfortable working with TypeScript and JavaScript, with foundational experience
 
 ## 🧰 Others
 
-![opencv](https://img.shields.io/badge/opencv-0F0F0F?style=for-the-badge&logo=opencv)
+>![opencv](https://img.shields.io/badge/opencv-0F0F0F?style=for-the-badge&logo=opencv)
 ![c++](https://img.shields.io/badge/c++-0F0F0F?style=for-the-badge&logo=c%2B%2B)
 ![opengl](https://img.shields.io/badge/opengl-0F0F0F?style=for-the-badge&logo=opengl)
 ![archlinux](https://img.shields.io/badge/arch%20linux-0F0F0F?style=for-the-badge&logo=archlinux)
