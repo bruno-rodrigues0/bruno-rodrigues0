@@ -57,6 +57,7 @@ class WhoAmI():
 ![zod](https://img.shields.io/badge/zod-0F0F0F?style=for-the-badge&logo=zod)
 ![better-auth](https://img.shields.io/badge/better%20auth-0F0F0F?style=for-the-badge&logo=betterauth)
 ![express](https://img.shields.io/badge/express-0F0F0F?style=for-the-badge&logo=express)
+![nginx](https://img.shields.io/badge/nginx-0F0F0F?style=for-the-badge&logo=nginx)
 
 ### ⚙ Frontend
 
@@ -71,6 +72,7 @@ class WhoAmI():
 ## ⚙️ DevOps
 
 ![docker](https://img.shields.io/badge/docker-0F0F0F?style=for-the-badge&logo=docker)
+![dockercompose](https://img.shields.io/badge/docker%20compose-0F0F0F?style=for-the-badge&logo=docker)
 ![ci/cd](https://img.shields.io/badge/ci/cd-0F0F0F?style=for-the-badge&logo=github)
 
 ---
@@ -96,6 +98,4 @@ class WhoAmI():
 
 ## ✨ Learning
 ![websocket](https://img.shields.io/badge/websocket-0F0F0F?style=for-the-badge&logo=socket.io)
-![nginx](https://img.shields.io/badge/nginx-0F0F0F?style=for-the-badge&logo=nginx)
-![dockercompose](https://img.shields.io/badge/docker%20compose-0F0F0F?style=for-the-badge&logo=docker)
 ![next.js](https://img.shields.io/badge/next.js-0F0F0F?style=for-the-badge&logo=next.js)
