@@ -42,10 +42,13 @@ study and hands-on practice in web development, currently working primarily with
 Has experience designing and implementing RESTful APIs, authentication flows, and database schemas as part of study-driven and personal projects. Familiar with backend technologies such as Node.js, Fastify, Prisma ORM, Docker, and relational databases including PostgreSQL and MySQL.
 
 <details>
-<summary style="font-size:14px">See more</summary>
+<summary style="font-size:15px">See more</summary>
+</br>
+
 Previously participated in applied technical activities involving unmanned aerial vehicles (UAVs), contributing to software development tasks as well as drone assembly, configuration, and maintenance in a laboratory environment. This background provided practical exposure to problem-solving, debugging, and working with complex systems.
 
 Comfortable working with TypeScript and JavaScript, with foundational experience in Python, C/C++, and PHP. Actively improving skills through continuous learning and project-based development, with a focus on writing clean, maintainable, and well-structured code.
+
 </details>
 
 ## 🧠 Main Stack
