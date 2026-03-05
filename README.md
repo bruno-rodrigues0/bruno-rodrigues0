@@ -6,7 +6,7 @@
 export const me: User = {
   name: "Bruno Rodrigues",
   role: "Web Developer",
-  location: "Guanambi/BA",
+  location: "Recife/PE",
   hobbies: [
     "Programming",
     "Read and study"
